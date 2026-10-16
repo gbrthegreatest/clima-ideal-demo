@@ -40,3 +40,10 @@ A publicação estática pode ser gratuita; disponibilidade e condições do ser
 - [ ] Confirmar autorização para usar marca, fotos e dados.
 - [ ] Revisar conteúdo, links, acessibilidade, desempenho e visual mobile.
 - [ ] Combinar domínio, hospedagem, manutenção e responsabilidades com o cliente.
+
+
+## Atualização visual
+- Numeração dos serviços simplificada para `01`, `02` e `03`.
+- Ícones dos cards redesenhados em SVG para manter espessura de linha uniforme.
+- Ícone de manutenção alterado para um raio vertical.
+- Símbolo da marca redesenhado para reduzir falhas visuais.
