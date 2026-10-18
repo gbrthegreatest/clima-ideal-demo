@@ -42,8 +42,5 @@ A publicação estática pode ser gratuita; disponibilidade e condições do ser
 - [ ] Combinar domínio, hospedagem, manutenção e responsabilidades com o cliente.
 
 
-## Atualização visual
-- Numeração dos serviços simplificada para `01`, `02` e `03`.
-- Ícones dos cards redesenhados em SVG para manter espessura de linha uniforme.
-- Ícone de manutenção alterado para um raio vertical.
-- Símbolo da marca redesenhado para reduzir falhas visuais.
+## Revisão visual
+Logo vetorial redesenhada sem falhas; ícones de instalação, limpeza, manutenção (raio vertical), residencial, comercial e agendamento em SVG com espessura uniforme; numeração dos cartões 01, 02 e 03.
